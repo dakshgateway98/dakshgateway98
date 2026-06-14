@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Daksh Patel
 
-<!--
-**dakshgateway98/dakshgateway98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Full Stack Developer | GenAI Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 6+ years of software development experience
+- Senior Software Engineer at Trend Micro
+- Expertise in ReactJS, NodeJS, Python
+- Building AI-powered applications using RAG, MCP, LLMs, and Agentic Workflows
+- Strong background in Distributed Systems and Microservices
+
+## Tech Stack
+
+### Frontend
+ReactJS • NextJS • TypeScript • Redux • TanStack Query
+
+### Backend
+NodeJS • NestJS • Python • Django • Flask
+
+### AI / GenAI
+LLMs • RAG • MCP • AI Agents • Vector Search
+
+### Cloud & DevOps
+Docker • Kubernetes • AWS • GitHub Actions
+
+## Featured Projects
+
+- AI RAG Assistant
+- MCP Agent Framework
+- Event Driven Microservices
+- Distributed Task Orchestrator
+
+## Achievements
+
+- 500+ DSA problems solved
+- Generative AI Certification (IIT Roorkee + Scaler)
+- Employee of the Quarter Award
+
+## Connect
+
+LinkedIn: linkedin.com/in/-daksh-patel
+
+Email: dakshpdpu@gmail.com
