@@ -4,7 +4,7 @@ Senior Software Engineer | Full Stack Developer | GenAI Engineer
 
 ## About Me
 
-- 6+ years of software development experience
+- 6.5+ years of software development experience
 - Senior Software Engineer at Trend Micro
 - Expertise in ReactJS, NodeJS, Python
 - Building AI-powered applications using RAG, MCP, LLMs, and Agentic Workflows
@@ -12,14 +12,14 @@ Senior Software Engineer | Full Stack Developer | GenAI Engineer
 
 ## Tech Stack
 
+### AI / GenAI
+LLMs • RAG • MCP • AI Agents • Vector Search
+
 ### Frontend
 ReactJS • NextJS • TypeScript • Redux • TanStack Query
 
 ### Backend
 NodeJS • NestJS • Python • Django • Flask
-
-### AI / GenAI
-LLMs • RAG • MCP • AI Agents • Vector Search
 
 ### Cloud & DevOps
 Docker • Kubernetes • AWS • GitHub Actions
