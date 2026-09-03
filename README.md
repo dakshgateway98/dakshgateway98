@@ -16,6 +16,9 @@ Senior Software Engineer | Full Stack | Distributed systems
 ## Public work
 
 - [CampusPoll](https://github.com/dakshgateway98/CampusPoll) — domain-restricted campus polls and surveys (React + Spring Boot + MySQL)
+- [X-ray AI](https://github.com/dakshgateway98/x_ray_ai) — FastAPI + Celery RAG demo for educational X-ray analysis
+- [DocAI](https://github.com/dakshgateway98/docai-docker) — Dockerized Express + React document assistant (Gemini)
+- [DocAI frontend](https://github.com/dakshgateway98/docai) — React client for DocAI
 
 Most of my recent work sits in private repositories.
 
