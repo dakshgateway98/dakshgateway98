@@ -9,7 +9,7 @@ Senior Software Engineer | Full Stack | Distributed systems
 ## Stack
 
 **Frontend:** React, Next.js, TypeScript, Redux, TanStack Query  
-**Backend:** Node.js, NestJS, Python, Spring Boot  
+**Backend:** Node.js, NestJS, Python, Fast API , DJango  
 **Cloud:** Docker, Kubernetes, AWS, GitHub Actions  
 **AI:** LLMs, RAG, MCP, vector search
 
