@@ -18,7 +18,7 @@ Senior Software Engineer | Full Stack | Distributed systems
 - [CampusPoll](https://github.com/dakshgateway98/CampusPoll) — domain-restricted campus polls and surveys (React + Spring Boot + MySQL)
 - [X-ray AI](https://github.com/dakshgateway98/x_ray_ai) — FastAPI + Celery RAG demo for educational X-ray analysis
 - [DocAI](https://github.com/dakshgateway98/docai-docker) — Dockerized Express + React document assistant (Gemini)
-- [DocAI frontend](https://github.com/dakshgateway98/docai) — React client for DocAI
+- [RAG + MCP Lab](https://github.com/dakshgateway98/rag-mcp-lab) — compare RAG retrievers and MCP tools on one corpus
 
 ## Connect
 
