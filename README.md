@@ -20,8 +20,6 @@ Senior Software Engineer | Full Stack | Distributed systems
 - [DocAI](https://github.com/dakshgateway98/docai-docker) — Dockerized Express + React document assistant (Gemini)
 - [DocAI frontend](https://github.com/dakshgateway98/docai) — React client for DocAI
 
-Most of my recent work sits in private repositories.
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/-daksh-patel](https://www.linkedin.com/in/-daksh-patel)
