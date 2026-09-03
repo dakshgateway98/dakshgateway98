@@ -1,44 +1,25 @@
-# Hi 👋 I'm Daksh Patel
+# Hi, I'm Daksh Patel
 
-Senior Software Engineer | Full Stack Developer | GenAI Engineer
+Senior Software Engineer | Full Stack | Distributed systems
 
-## About Me
+- 6.5+ years building production web services
+- Currently at Trend Micro
+- Day-to-day: React, Node.js, Python, plus RAG / LLM work where it fits the product
 
-- 6.5+ years of software development experience
-- Senior Software Engineer at Trend Micro
-- Expertise in ReactJS, NodeJS, Python
-- Building AI-powered applications using RAG, MCP, LLMs, and Agentic Workflows
-- Strong background in Distributed Systems and Microservices
+## Stack
 
-## Tech Stack
+**Frontend:** React, Next.js, TypeScript, Redux, TanStack Query  
+**Backend:** Node.js, NestJS, Python, Spring Boot  
+**Cloud:** Docker, Kubernetes, AWS, GitHub Actions  
+**AI:** LLMs, RAG, MCP, vector search
 
-### AI / GenAI
-LLMs • RAG • MCP • AI Agents • Vector Search
+## Public work
 
-### Frontend
-ReactJS • NextJS • TypeScript • Redux • TanStack Query
+- [CampusPoll](https://github.com/dakshgateway98/CampusPoll) — domain-restricted campus polls and surveys (React + Spring Boot + MySQL)
 
-### Backend
-NodeJS • NestJS • Python • Django • Flask
-
-### Cloud & DevOps
-Docker • Kubernetes • AWS • GitHub Actions
-
-## Featured Projects
-
-- AI RAG Assistant
-- MCP Agent Framework
-- Event Driven Microservices
-- Distributed Task Orchestrator
-
-## Achievements
-
-- 500+ DSA problems solved
-- Generative AI Certification (IIT Roorkee + Scaler)
-- Employee of the Quarter Award
+Most of my recent work sits in private repositories.
 
 ## Connect
 
-LinkedIn: linkedin.com/in/-daksh-patel
-
-Email: dakshpdpu@gmail.com
+- LinkedIn: [linkedin.com/in/-daksh-patel](https://www.linkedin.com/in/-daksh-patel)
+- Email: dakshpdpu@gmail.com
